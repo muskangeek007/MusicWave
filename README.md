@@ -1,1 +1,1 @@
-# MusicWave
+MusicWave Application by Muskan Gupta
